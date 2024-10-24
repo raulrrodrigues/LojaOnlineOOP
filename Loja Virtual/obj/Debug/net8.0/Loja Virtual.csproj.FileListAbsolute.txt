@@ -1,0 +1,28 @@
+C:\Users\eduar\Desktop\Trabalho Raul\Loja Virtual\bin\Debug\net8.0\Loja Virtual.exe
+C:\Users\eduar\Desktop\Trabalho Raul\Loja Virtual\bin\Debug\net8.0\Loja Virtual.deps.json
+C:\Users\eduar\Desktop\Trabalho Raul\Loja Virtual\bin\Debug\net8.0\Loja Virtual.runtimeconfig.json
+C:\Users\eduar\Desktop\Trabalho Raul\Loja Virtual\bin\Debug\net8.0\Loja Virtual.dll
+C:\Users\eduar\Desktop\Trabalho Raul\Loja Virtual\bin\Debug\net8.0\Loja Virtual.pdb
+C:\Users\eduar\Desktop\Trabalho Raul\Loja Virtual\obj\Debug\net8.0\Loja Virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Desktop\Trabalho Raul\Loja Virtual\obj\Debug\net8.0\Loja Virtual.AssemblyInfoInputs.cache
+C:\Users\eduar\Desktop\Trabalho Raul\Loja Virtual\obj\Debug\net8.0\Loja Virtual.AssemblyInfo.cs
+C:\Users\eduar\Desktop\Trabalho Raul\Loja Virtual\obj\Debug\net8.0\Loja Virtual.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\Trabalho Raul\Loja Virtual\obj\Debug\net8.0\Loja Virtual.dll
+C:\Users\eduar\Desktop\Trabalho Raul\Loja Virtual\obj\Debug\net8.0\refint\Loja Virtual.dll
+C:\Users\eduar\Desktop\Trabalho Raul\Loja Virtual\obj\Debug\net8.0\Loja Virtual.pdb
+C:\Users\eduar\Desktop\Trabalho Raul\Loja Virtual\obj\Debug\net8.0\Loja Virtual.genruntimeconfig.cache
+C:\Users\eduar\Desktop\Trabalho Raul\Loja Virtual\obj\Debug\net8.0\ref\Loja Virtual.dll
+C:\Users\Raul\Desktop\AP2-lab.programacao\Loja Virtual\bin\Debug\net8.0\Loja Virtual.exe
+C:\Users\Raul\Desktop\AP2-lab.programacao\Loja Virtual\bin\Debug\net8.0\Loja Virtual.deps.json
+C:\Users\Raul\Desktop\AP2-lab.programacao\Loja Virtual\bin\Debug\net8.0\Loja Virtual.runtimeconfig.json
+C:\Users\Raul\Desktop\AP2-lab.programacao\Loja Virtual\bin\Debug\net8.0\Loja Virtual.dll
+C:\Users\Raul\Desktop\AP2-lab.programacao\Loja Virtual\bin\Debug\net8.0\Loja Virtual.pdb
+C:\Users\Raul\Desktop\AP2-lab.programacao\Loja Virtual\obj\Debug\net8.0\Loja Virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\Desktop\AP2-lab.programacao\Loja Virtual\obj\Debug\net8.0\Loja Virtual.AssemblyInfoInputs.cache
+C:\Users\Raul\Desktop\AP2-lab.programacao\Loja Virtual\obj\Debug\net8.0\Loja Virtual.AssemblyInfo.cs
+C:\Users\Raul\Desktop\AP2-lab.programacao\Loja Virtual\obj\Debug\net8.0\Loja Virtual.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Desktop\AP2-lab.programacao\Loja Virtual\obj\Debug\net8.0\Loja Virtual.dll
+C:\Users\Raul\Desktop\AP2-lab.programacao\Loja Virtual\obj\Debug\net8.0\refint\Loja Virtual.dll
+C:\Users\Raul\Desktop\AP2-lab.programacao\Loja Virtual\obj\Debug\net8.0\Loja Virtual.pdb
+C:\Users\Raul\Desktop\AP2-lab.programacao\Loja Virtual\obj\Debug\net8.0\Loja Virtual.genruntimeconfig.cache
+C:\Users\Raul\Desktop\AP2-lab.programacao\Loja Virtual\obj\Debug\net8.0\ref\Loja Virtual.dll
